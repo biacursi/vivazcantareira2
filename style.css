@@ -625,6 +625,9 @@ body {
   .planta-text h2{
     text-align: center;
   }
+  .condo-info h2 {
+    text-align: center;
+  }
   .nav-links {
     display: none;
   }
