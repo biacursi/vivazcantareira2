@@ -306,7 +306,6 @@ body {
     sans-serif;
   font-size: 2rem;
   margin-bottom: 16px;
-  text-align: center;
 }
 .planta-img-wrapper {
   position: relative;
@@ -340,7 +339,6 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: 40px;
   align-items: center;
-  text-align: center;
 }
 .condo-img {
   width: 100%;
@@ -622,6 +620,10 @@ body {
   .condo-grid {
     grid-template-columns: 1fr;
     gap: 24px;
+    text-align: center;
+  }
+  .planta-text h2{
+    text-align: center;
   }
   .nav-links {
     display: none;
