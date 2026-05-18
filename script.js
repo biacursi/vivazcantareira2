@@ -38,13 +38,33 @@ const allPhotos = [
     category: "O Apartamento",
     caption: "Planta Smart Slim - Otimização de espaço",
   },
+    {
+    src: "./imagens/entrada.jpeg",
+    category: "O Apartamento",
+    caption: "Entrada da unidade",
+  },
+    {
+    src: "./imagens/entrada2.jpeg",
+    category: "O Apartamento",
+    caption: "Entrada",
+  },
   {
-    src: "./imagens/cozinha.jpg",
+    src: "./imagens/cozinha.jpeg",
     category: "O Apartamento",
     caption: "Cozinha integrada com área de serviço",
   },
+      {
+    src: "./imagens/pia.jpeg",
+    category: "O Apartamento",
+    caption: "Pia da cozinha",
+  },
+    {
+    src: "./imagens/cozinha-2.jpeg",
+    category: "O Apartamento",
+    caption: "Área de serviço",
+  },
   {
-    src: "./imagens/sala.jpg",
+    src: "./imagens/sala.jpeg",
     category: "O Apartamento",
     caption: "Sala de estar ampla para dois ambientes",
   },
@@ -54,34 +74,44 @@ const allPhotos = [
     caption: "Iluminação natural privilegiada",
   },
   {
-    src: "./imagens/quartocasal.jpg",
+    src: "./imagens/quartoprincipal.jpeg",
     category: "O Apartamento",
     caption: "Dormitório principal com piso laminado",
   },
   {
-    src: "./imagens/quartocasal2.jpg",
+    src: "./imagens/quartop.jpeg",
     category: "O Apartamento",
     caption: "Espaço planejado para guarda-roupas",
   },
   {
-    src: "./imagens/quarto2.jpg",
+    src: "./imagens/quarto2.jpeg",
     category: "O Apartamento",
     caption: "Segundo dormitório versátil",
   },
   {
-    src: "./imagens/quarto2-1.jpg",
+    src: "./imagens/quarto2-1.jpeg",
     category: "O Apartamento",
     caption: "Ideal para home office ou quarto infantil",
   },
   {
-    src: "./imagens/banheiro.jpg",
+    src: "./imagens/banheiro.jpeg",
     category: "O Apartamento",
     caption: "Banheiro com revestimento moderno",
   },
   {
-    src: "./imagens/banheiro2.jpg",
+    src: "./imagens/banheiro-2.jpeg",
     category: "O Apartamento",
     caption: "Acabamentos de alta qualidade",
+  },
+   {
+    src: "./imagens/banheiro-3.jpeg",
+    category: "O Apartamento",
+    caption: "Acabamentos de alta qualidade",
+  },
+     {
+    src: "./imagens/vista.jpeg",
+    category: "O Apartamento",
+    caption: "Vista do apartamento para o Pico do Jaraguá",
   },
 
   // Categoria: Lazer e Áreas Comuns
